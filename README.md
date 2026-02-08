@@ -36,3 +36,4 @@ Run one strategy:
 python3 warehouse_simulator/main.py --method ck --runs 5
 ```
 # simulator
+# lda_simulator
