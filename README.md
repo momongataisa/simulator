@@ -35,3 +35,4 @@ Run one strategy:
 ```bash
 python3 warehouse_simulator/main.py --method ck --runs 5
 ```
+# simulator
